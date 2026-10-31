@@ -1,0 +1,14 @@
+{
+ "parts": {
+  "20-acts-01.json": {
+   "acts": [
+    "taita-taveta-county-maternal-newborn-and-child-health-act-2023",
+    "taita-taveta-county-persons-with-disabilities-act-2023",
+    "taita-taveta-county-public-open-spaces-use-and-maintenance-act-2023",
+    "taita-taveta-county-roads-management-act-2023"
+   ],
+   "sha256": "d042624fdecaa6e82cb1751387392fdd6a0970a9179142bf5183b2ddd642086f"
+  }
+ },
+ "schema": 1
+}
