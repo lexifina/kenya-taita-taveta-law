@@ -1,0 +1,61 @@
+{
+ "country": "KE-39",
+ "acts": [
+  {
+   "slug": "taita-taveta-county-maternal-newborn-and-child-health-act-2023",
+   "short": "The Taita Taveta County Maternal, Newborn and Child Health Act, 2023",
+   "title": "The Taita Taveta County Maternal, Newborn and Child Health Act, 2023",
+   "url": "https://taitatavetaassembly.go.ke/documents/the-taita-taveta-county-maternal-newborn-and-child-health-act-2023/",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 24,
+     "source_url": "https://taitatavetaassembly.go.ke/wp-content/uploads/2024/10/The-Taita-Taveta-County-Maternal-Newborn-and-Child-Health-Act-2023.pdf",
+     "sha256": "da63a2bf8c6c1279325d93a6ff135bc2fb4540b350cf5159a6a4ad6b9739cbbf"
+    }
+   ]
+  },
+  {
+   "slug": "taita-taveta-county-persons-with-disabilities-act-2023",
+   "short": "The Taita Taveta County Persons with Disabilities Act, 2023",
+   "title": "The Taita Taveta County Persons with Disabilities Act, 2023",
+   "url": "https://taitatavetaassembly.go.ke/documents/the-taita-taveta-county-persons-with-disabilities-act-2023/",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 25,
+     "source_url": "https://taitatavetaassembly.go.ke/wp-content/uploads/2024/10/The-Taita-Taveta-County-Persons-with-Disabilities-Act-2023.pdf",
+     "sha256": "7c2253a386f1f8a1275b1a58f95ef839b60df34bafef79ac53001ca82984fa29"
+    }
+   ]
+  },
+  {
+   "slug": "taita-taveta-county-public-open-spaces-use-and-maintenance-act-2023",
+   "short": "The Taita Taveta County Public Open Spaces Use and Maintenance Act, 2023",
+   "title": "The Taita Taveta County Public Open Spaces Use and Maintenance Act, 2023",
+   "url": "https://taitatavetaassembly.go.ke/documents/the-taita-taveta-county-public-open-spaces-use-and-maintenance-act-2023/",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 19,
+     "source_url": "https://taitatavetaassembly.go.ke/wp-content/uploads/2024/10/The-Taita-Taveta-County-Public-Open-Spaces-Use-and-Maintenance-Act-2023.pdf",
+     "sha256": "d7ef749f9465e0173ac8e5722faa1470171606741abbff72330f478dd6d5d540"
+    }
+   ]
+  },
+  {
+   "slug": "taita-taveta-county-roads-management-act-2023",
+   "short": "The Taita Taveta County Roads Management Act, 2023",
+   "title": "The Taita Taveta County Roads Management Act, 2023",
+   "url": "https://taitatavetaassembly.go.ke/documents/the-taita-taveta-road-management-act-2023/",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 22,
+     "source_url": "https://taitatavetaassembly.go.ke/wp-content/uploads/2024/10/The-Taita-Taveta-Road-Management-Act-2023.pdf",
+     "sha256": "fb800ccce88a9d943396657616a1cd6550557fe508f3e064550d095ebafe90d8"
+    }
+   ]
+  }
+ ]
+}
